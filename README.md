@@ -1,4 +1,4 @@
-# Excel to JSON Converter
+# Excel to JSON Converter v1
 This Python script allows you to convert multiple Excel files into a single JSON file. It's particularly useful when you need to combine data from various Excel spreadsheets into a unified JSON format.
 ## Features
 - Convert multiple Excel files (.xlsx or .xls) to JSON
@@ -12,8 +12,8 @@ This Python script allows you to convert multiple Excel files into a single JSON
 ## Installation
 1. Clone this repository:
    ```
-   git clone https://github.com/yadi-dev/excel-to-json-converter.git
-   cd excel-to-json-converter
+   git clone https://github.com/yadi-dev/Excel-to-Json-Converter-v1.git
+   cd Excel-to-Json-Converter-v1
    ```
 2. Install the required packages:
    ```
